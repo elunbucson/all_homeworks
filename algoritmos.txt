@@ -1,0 +1,78 @@
+1. Algoritmo para colgar un cuadro
+Objetivo: Colocar un cuadro en la pared.
+
+Algoritmo:
+
+Preparación:
+
+Reúne los materiales necesarios: el cuadro, un martillo, clavos o ganchos de pared, una regla, y un nivel (opcional).
+Seleccionar ubicación:
+
+Elige el lugar adecuado en la pared donde deseas colgar el cuadro.
+Medir y marcar:
+
+Usa la regla para medir la distancia desde el suelo o desde el borde de la pared para determinar a qué altura colocar el cuadro.
+Marca en la pared donde irán los clavos o ganchos (con un lápiz).
+Colocar los clavos o ganchos:
+
+Usa el martillo para clavar los clavos o coloca los ganchos en las marcas previamente hechas.
+Colocar el cuadro:
+
+Si el cuadro tiene cables en la parte posterior, cuélgalo sobre los clavos o ganchos.
+Si es un cuadro con ganchos en la parte posterior, asegúrate de que se cuelgue de manera segura.
+Ajustar:
+
+Usa un nivel para asegurarte de que el cuadro esté recto y, si es necesario, ajusta la posición.
+2. Algoritmo para hacer palomitas de maíz
+Objetivo: Preparar palomitas de maíz en una olla.
+
+Algoritmo:
+
+Preparación:
+
+Reúne los ingredientes y utensilios: maíz para palomitas, aceite (como aceite de maíz o de coco), sal, y una olla con tapa.
+Preparar la olla:
+
+Coloca la olla en la estufa y agrega suficiente aceite para cubrir el fondo de la olla (aproximadamente 2-3 cucharadas).
+Calentar el aceite:
+
+Enciende la estufa a fuego medio-alto y deja que el aceite se caliente durante unos minutos.
+Añadir el maíz:
+
+Agrega los granos de maíz a la olla (aproximadamente 1/2 taza de maíz).
+Cubrir y agitar:
+
+Coloca la tapa sobre la olla y agítala ocasionalmente para evitar que el maíz se queme.
+Escuchar el sonido:
+
+Cuando el sonido de los "pop" se detenga, es que las palomitas están listas.
+Servir:
+
+Retira la olla del fuego y, con cuidado, abre la tapa.
+Sirve las palomitas en un tazón y, si lo deseas, añade sal o mantequilla.
+3. Algoritmo para llegar a tu casa
+Objetivo: Llegar a casa desde el lugar en el que te encuentras.
+
+Algoritmo:
+
+Determinar la ubicación actual:
+
+Identifica tu ubicación actual (puede ser mediante un GPS, una dirección, o algún punto de referencia).
+Verificar la dirección hacia tu casa:
+
+Si sabes la dirección, asegúrate de que estás siguiendo el camino correcto.
+Si no sabes, usa un mapa o una aplicación de navegación en tu teléfono (por ejemplo, Google Maps).
+Elegir el medio de transporte:
+
+Decide si vas a caminar, conducir, tomar transporte público, etc.
+Seguir la ruta:
+
+Si estás conduciendo, asegúrate de seguir las señales de tráfico y las indicaciones en el mapa o aplicación.
+Si estás caminando, busca el mejor camino que te lleve a tu casa.
+Si estás tomando transporte público, sigue las paradas correspondientes.
+Monitorear el progreso:
+
+Si usas un GPS o aplicación, asegúrate de seguir las indicaciones.
+Llegar a casa:
+
+Cuando llegues a la puerta de tu casa, asegúrate de tener las llaves para entrar.
